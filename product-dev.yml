@@ -1,0 +1,6 @@
+env: dev
+server: 
+  port: 3344
+server: 
+  servlet: 
+    context-path: /product
